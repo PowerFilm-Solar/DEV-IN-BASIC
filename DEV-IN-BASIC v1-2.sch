@@ -411,7 +411,6 @@
 <technology name="">
 <attribute name="MFG_PART#" value="744031220"/>
 <attribute name="PERCENTAGE" value="30%"/>
-<attribute name="TEST" value="" constant="no"/>
 </technology>
 </technologies>
 </device>
@@ -6407,90 +6406,63 @@ In this library the device names are the same as the pin names of the symbols, t
 <part name="RAILOUT_" library="con-TE_CLARK" deviceset="TE_2PIN_CLARK" device=""/>
 <part name="BQ25570" library="00_PF_Nordic" deviceset="BQ25570" device=""/>
 <part name="R_OUT2" library="resistor" deviceset="R-US_" device="R0603" value="6.98M">
-<attribute name="MFG_PART#" value="CRCW06036M98FKEA
-"/>
+<attribute name="MFG_PART#" value="CRCW06036M98FKEA "/>
 <attribute name="PERCENTAGE" value="1%"/>
 </part>
 <part name="R_OUT1" library="resistor" deviceset="R-US_" device="R0603" value="4.75M">
-<attribute name="MFG_PART#" value="RC0603FR-074M75L
-"/>
-<attribute name="PERCENTAGE" value="1%
-"/>
+<attribute name="MFG_PART#" value="RC0603FR-074M75L "/>
+<attribute name="PERCENTAGE" value="1% "/>
 </part>
 <part name="R_OK1" library="resistor" deviceset="R-US_" device="R0603" value="4.75M">
-<attribute name="MFG_PART#" value="RC0603FR-074M75L
-"/>
-<attribute name="PERCENTAGE" value="1%
-"/>
+<attribute name="MFG_PART#" value="RC0603FR-074M75L "/>
+<attribute name="PERCENTAGE" value="1% "/>
 </part>
 <part name="R_OK3" library="resistor" deviceset="R-US_" device="R0603" value="1M">
-<attribute name="MFG_PART#" value="RMCF0603FT1M00
-"/>
-<attribute name="PERCENTAGE" value="1%
-"/>
+<attribute name="MFG_PART#" value="RMCF0603FT1M00 "/>
+<attribute name="PERCENTAGE" value="1% "/>
 </part>
 <part name="R_OK2" library="resistor" deviceset="R-US_" device="R0603" value="6.98M">
-<attribute name="MFG_PART#" value="CRCW06036M98FKEA
-"/>
-<attribute name="PERCENTAGE" value="1%
-"/>
+<attribute name="MFG_PART#" value="CRCW06036M98FKEA "/>
+<attribute name="PERCENTAGE" value="1% "/>
 </part>
 <part name="R_OV2" library="resistor" deviceset="R-US_" device="R0603" value="6.98M">
-<attribute name="MFG_PART#" value="CRCW06036M98FKEA
-"/>
-<attribute name="PERCENTAGE" value="1%
-"/>
+<attribute name="MFG_PART#" value="CRCW06036M98FKEA "/>
+<attribute name="PERCENTAGE" value="1% "/>
 </part>
 <part name="R_OV1" library="resistor" deviceset="R-US_" device="R0603" value="5.36M">
 <attribute name="MFG_PART#" value="CRCW06035M36FKEA"/>
-<attribute name="PERCENTAGE" value="1%
-"/>
+<attribute name="PERCENTAGE" value="1% "/>
 </part>
 <part name="R_OC1B" library="resistor" deviceset="R-US_" device="R0603" value="10M">
-<attribute name="MFG_PART#" value="RC0603FR-0710ML
-"/>
-<attribute name="PERCENTAGE" value="1%
-"/>
+<attribute name="MFG_PART#" value="RC0603FR-0710ML "/>
+<attribute name="PERCENTAGE" value="1% "/>
 </part>
 <part name="R_OC1A" library="resistor" deviceset="R-US_" device="R0603" value="1M">
-<attribute name="MFG_PART#" value="RMCF0603FT1M00
-"/>
-<attribute name="PERCENTAGE" value="1%
-"/>
+<attribute name="MFG_PART#" value="RMCF0603FT1M00 "/>
+<attribute name="PERCENTAGE" value="1% "/>
 </part>
 <part name="R_OC2" library="resistor" deviceset="R-US_" device="R0603" value="5.36M">
-<attribute name="MFG_PART#" value="CRCW06035M36FKEA
-"/>
-<attribute name="PERCENTAGE" value="1%
-"/>
+<attribute name="MFG_PART#" value="CRCW06035M36FKEA "/>
+<attribute name="PERCENTAGE" value="1% "/>
 </part>
 <part name="C_REF" library="resistor" deviceset="C-US" device="C0603" value="10nF">
-<attribute name="MFG_PART#" value="CL10B103KB8SFNC
-"/>
-<attribute name="PERCENTAGE" value="10%
-"/>
+<attribute name="MFG_PART#" value="CL10B103KB8SFNC "/>
+<attribute name="PERCENTAGE" value="10% "/>
 </part>
 <part name="C_IN" library="resistor" deviceset="C-US" device="C0603" value="4.7uF">
-<attribute name="MFG_PART#" value="CL10A475KQ8NNWC
-"/>
-<attribute name="PERCENTAGE" value="5%
-"/>
+<attribute name="MFG_PART#" value="CL10A475KQ8NNWC "/>
+<attribute name="PERCENTAGE" value="5% "/>
 </part>
 <part name="C_BYP" library="resistor" deviceset="C-US" device="C0603" value="10nF">
-<attribute name="MFG_PART#" value="CL10B103KB8SFNC
-"/>
-<attribute name="PERCENTAGE" value="10%
-"/>
+<attribute name="MFG_PART#" value="CL10B103KB8SFNC "/>
+<attribute name="PERCENTAGE" value="10% "/>
 </part>
 <part name="C_STOR" library="resistor" deviceset="C-US" device="C0603" value="4.7uF">
-<attribute name="MFG_PART#" value="CL10A475KQ8NNWC
-"/>
-<attribute name="PERCENTAGE" value="5%
-"/>
+<attribute name="MFG_PART#" value="CL10A475KQ8NNWC "/>
+<attribute name="PERCENTAGE" value="5% "/>
 </part>
 <part name="C_OUT" library="resistor" deviceset="C-US" device="C0603" value="22uF">
-<attribute name="MFG_PART#" value="GRM188R60J226MEA0D
-"/>
+<attribute name="MFG_PART#" value="GRM188R60J226MEA0D "/>
 <attribute name="PERCENTAGE" value="20%"/>
 </part>
 <part name="SUPPLY1" library="supply2" deviceset="GND" device=""/>

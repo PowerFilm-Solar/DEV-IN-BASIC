@@ -8184,123 +8184,95 @@ design rules under a new name.</description>
 <attribute name="NAME" x="3.9" y="13" size="0.7" layer="25" font="vector"/>
 <attribute name="VALUE" x="3.265" y="11.095" size="1.27" layer="27"/>
 <attribute name="PERCENTAGE" value="1%" x="3.9" y="13" size="1.778" layer="27" display="off"/>
-<attribute name="MFG_PART#" value="CRCW06036M98FKEA
-" x="3.9" y="13" size="1.778" layer="27" display="off"/>
+<attribute name="MFG_PART#" value="CRCW06036M98FKEA " x="3.9" y="13" size="1.778" layer="27" display="off"/>
 </element>
 <element name="R_OUT1" library="resistor" package="R0603" value="4.75M" x="3.9" y="11.5" smashed="yes" rot="R180">
 <attribute name="NAME" x="3.9" y="11.5" size="0.7" layer="25" font="vector"/>
 <attribute name="VALUE" x="4.535" y="13.405" size="1.27" layer="27" rot="R180"/>
-<attribute name="PERCENTAGE" value="1%
-" x="3.9" y="11.5" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="MFG_PART#" value="RC0603FR-074M75L
-" x="3.9" y="11.5" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="PERCENTAGE" value="1% " x="3.9" y="11.5" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MFG_PART#" value="RC0603FR-074M75L " x="3.9" y="11.5" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
 <element name="R_OK1" library="resistor" package="R0603" value="4.75M" x="3.9" y="15.5" smashed="yes" rot="R180">
 <attribute name="NAME" x="3.9" y="15.5" size="0.7" layer="25" font="vector"/>
 <attribute name="VALUE" x="4.535" y="17.405" size="1.27" layer="27" rot="R180"/>
-<attribute name="PERCENTAGE" value="1%
-" x="3.9" y="15.5" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="MFG_PART#" value="RC0603FR-074M75L
-" x="3.9" y="15.5" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="PERCENTAGE" value="1% " x="3.9" y="15.5" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MFG_PART#" value="RC0603FR-074M75L " x="3.9" y="15.5" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
 <element name="R_OK3" library="resistor" package="R0603" value="1M" x="3.9" y="18.5" smashed="yes">
 <attribute name="NAME" x="3.9" y="18.5" size="0.7" layer="25" font="vector"/>
 <attribute name="VALUE" x="3.265" y="16.595" size="1.27" layer="27"/>
-<attribute name="PERCENTAGE" value="1%
-" x="3.9" y="18.5" size="1.778" layer="27" display="off"/>
-<attribute name="MFG_PART#" value="RMCF0603FT1M00
-" x="3.9" y="18.5" size="1.778" layer="27" display="off"/>
+<attribute name="PERCENTAGE" value="1% " x="3.9" y="18.5" size="1.778" layer="27" display="off"/>
+<attribute name="MFG_PART#" value="RMCF0603FT1M00 " x="3.9" y="18.5" size="1.778" layer="27" display="off"/>
 </element>
 <element name="R_OK2" library="resistor" package="R0603" value="6.98M" x="3.9" y="17" smashed="yes">
 <attribute name="NAME" x="3.9" y="17" size="0.7" layer="25" font="vector"/>
 <attribute name="VALUE" x="3.265" y="15.095" size="1.27" layer="27"/>
-<attribute name="PERCENTAGE" value="1%
-" x="3.9" y="17" size="1.778" layer="27" display="off"/>
-<attribute name="MFG_PART#" value="CRCW06036M98FKEA
-" x="3.9" y="17" size="1.778" layer="27" display="off"/>
+<attribute name="PERCENTAGE" value="1% " x="3.9" y="17" size="1.778" layer="27" display="off"/>
+<attribute name="MFG_PART#" value="CRCW06036M98FKEA " x="3.9" y="17" size="1.778" layer="27" display="off"/>
 </element>
 <element name="R_OV2" library="resistor" package="R0603" value="6.98M" x="3.9" y="21" smashed="yes">
 <attribute name="NAME" x="3.9" y="21" size="0.7" layer="25" font="vector"/>
 <attribute name="VALUE" x="3.265" y="19.095" size="1.27" layer="27"/>
-<attribute name="PERCENTAGE" value="1%
-" x="3.9" y="21" size="1.778" layer="27" display="off"/>
-<attribute name="MFG_PART#" value="CRCW06036M98FKEA
-" x="3.9" y="21" size="1.778" layer="27" display="off"/>
+<attribute name="PERCENTAGE" value="1% " x="3.9" y="21" size="1.778" layer="27" display="off"/>
+<attribute name="MFG_PART#" value="CRCW06036M98FKEA " x="3.9" y="21" size="1.778" layer="27" display="off"/>
 </element>
 <element name="R_OV1" library="resistor" package="R0603" value="5.36M" x="3.9" y="22.5" smashed="yes">
 <attribute name="NAME" x="3.9" y="22.5" size="0.7" layer="25" font="vector"/>
 <attribute name="VALUE" x="3.265" y="20.595" size="1.27" layer="27"/>
 <attribute name="MFG_PART#" value="CRCW06035M36FKEA" x="3.9" y="22.5" size="1.778" layer="27" display="off"/>
-<attribute name="PERCENTAGE" value="1%
-" x="3.9" y="22.5" size="1.778" layer="27" display="off"/>
+<attribute name="PERCENTAGE" value="1% " x="3.9" y="22.5" size="1.778" layer="27" display="off"/>
 </element>
 <element name="R_OC1B" library="resistor" package="R0603" value="10M" x="13.6" y="25.3" smashed="yes" rot="R270">
 <attribute name="NAME" x="13.1" y="25.3" size="0.7" layer="25" font="vector" rot="R90"/>
 <attribute name="VALUE" x="11.695" y="25.935" size="1.27" layer="27" rot="R270"/>
-<attribute name="PERCENTAGE" value="1%
-" x="13.6" y="25.3" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="MFG_PART#" value="RC0603FR-0710ML
-" x="13.6" y="25.3" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="PERCENTAGE" value="1% " x="13.6" y="25.3" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MFG_PART#" value="RC0603FR-0710ML " x="13.6" y="25.3" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
 <element name="R_OC1A" library="resistor" package="R0603" value="1M" x="15.85" y="24.65" smashed="yes">
 <attribute name="NAME" x="15.85" y="24.65" size="0.7" layer="25" font="vector"/>
 <attribute name="VALUE" x="15.215" y="22.745" size="1.27" layer="27"/>
-<attribute name="PERCENTAGE" value="1%
-" x="15.85" y="24.65" size="1.778" layer="27" display="off"/>
-<attribute name="MFG_PART#" value="RMCF0603FT1M00
-" x="15.85" y="24.65" size="1.778" layer="27" display="off"/>
+<attribute name="PERCENTAGE" value="1% " x="15.85" y="24.65" size="1.778" layer="27" display="off"/>
+<attribute name="MFG_PART#" value="RMCF0603FT1M00 " x="15.85" y="24.65" size="1.778" layer="27" display="off"/>
 </element>
 <element name="R_OC2" library="resistor" package="R0603" value="5.36M" x="15.85" y="26.05" smashed="yes">
 <attribute name="NAME" x="15.95" y="25.85" size="0.7" layer="25" font="vector" rot="R90"/>
 <attribute name="VALUE" x="15.215" y="24.145" size="1.27" layer="27"/>
-<attribute name="PERCENTAGE" value="1%
-" x="15.85" y="26.05" size="1.778" layer="27" display="off"/>
-<attribute name="MFG_PART#" value="CRCW06035M36FKEA
-" x="15.85" y="26.05" size="1.778" layer="27" display="off"/>
+<attribute name="PERCENTAGE" value="1% " x="15.85" y="26.05" size="1.778" layer="27" display="off"/>
+<attribute name="MFG_PART#" value="CRCW06035M36FKEA " x="15.85" y="26.05" size="1.778" layer="27" display="off"/>
 </element>
 <element name="C_REF" library="resistor" package="C0603" value="10nF" x="15.85" y="23.3" smashed="yes" rot="R180">
 <attribute name="NAME" x="15.85" y="23.3" size="0.7" layer="25" font="vector"/>
 <attribute name="VALUE" x="16.485" y="25.205" size="1.27" layer="27" rot="R180"/>
-<attribute name="MFG_PART#" value="CL10B103KB8SFNC
-" x="15.85" y="23.3" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="PERCENTAGE" value="10%
-" x="15.85" y="23.3" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="MFG_PART#" value="CL10B103KB8SFNC " x="15.85" y="23.3" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="PERCENTAGE" value="10% " x="15.85" y="23.3" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
 <element name="C_IN" library="resistor" package="C0603" value="4.7uF" x="18.5" y="25.9" smashed="yes" rot="R90">
 <attribute name="NAME" x="18.5" y="25.9" size="0.7" layer="25" font="vector" rot="R90"/>
 <attribute name="VALUE" x="20.405" y="25.265" size="1.27" layer="27" rot="R90"/>
-<attribute name="MFG_PART#" value="CL10A475KQ8NNWC
-" x="18.5" y="25.9" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="PERCENTAGE" value="5%
-" x="18.5" y="25.9" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MFG_PART#" value="CL10A475KQ8NNWC " x="18.5" y="25.9" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="PERCENTAGE" value="5% " x="18.5" y="25.9" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
 <element name="C_BYP" library="resistor" package="C0603" value="10nF" x="27.08" y="22.5296" smashed="yes">
 <attribute name="NAME" x="27.08" y="22.5296" size="0.7" layer="25" font="vector"/>
 <attribute name="VALUE" x="26.445" y="20.6246" size="1.27" layer="27"/>
-<attribute name="MFG_PART#" value="CL10B103KB8SFNC
-" x="27.08" y="22.5296" size="1.778" layer="27" display="off"/>
-<attribute name="PERCENTAGE" value="10%
-" x="27.08" y="22.5296" size="1.778" layer="27" display="off"/>
+<attribute name="MFG_PART#" value="CL10B103KB8SFNC " x="27.08" y="22.5296" size="1.778" layer="27" display="off"/>
+<attribute name="PERCENTAGE" value="10% " x="27.08" y="22.5296" size="1.778" layer="27" display="off"/>
 </element>
 <element name="C_STOR" library="resistor" package="C0603" value="4.7uF" x="27.08" y="21.2296" smashed="yes">
 <attribute name="NAME" x="26.98" y="21.3296" size="0.7" layer="25" font="vector" rot="R270"/>
 <attribute name="VALUE" x="26.445" y="19.3246" size="1.27" layer="27"/>
-<attribute name="MFG_PART#" value="CL10A475KQ8NNWC
-" x="27.08" y="21.2296" size="1.778" layer="27" display="off"/>
-<attribute name="PERCENTAGE" value="5%
-" x="27.08" y="21.2296" size="1.778" layer="27" display="off"/>
+<attribute name="MFG_PART#" value="CL10A475KQ8NNWC " x="27.08" y="21.2296" size="1.778" layer="27" display="off"/>
+<attribute name="PERCENTAGE" value="5% " x="27.08" y="21.2296" size="1.778" layer="27" display="off"/>
 </element>
 <element name="C_OUT" library="resistor" package="C0603" value="22uF" x="20.9" y="15.6" smashed="yes" rot="R270">
 <attribute name="NAME" x="20.9" y="15.6" size="0.7" layer="25" font="vector" rot="R270"/>
 <attribute name="VALUE" x="18.995" y="16.235" size="1.27" layer="27" rot="R270"/>
-<attribute name="MFG_PART#" value="GRM188R60J226MEA0D
-" x="20.9" y="15.6" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MFG_PART#" value="GRM188R60J226MEA0D " x="20.9" y="15.6" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="PERCENTAGE" value="20%" x="20.9" y="15.6" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
 <element name="L1" library="00_PF_Nordic" package="744031220" value="22uH" x="22.0936" y="25.984" rot="R270">
 <attribute name="PERCENTAGE" value="30%" x="22.0936" y="25.984" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MFG_PART#" value="744031220" x="22.0936" y="25.984" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="TEST" value="" x="22.0936" y="25.984" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
 <element name="L2" library="00_PFLib_12-7-2015" package="744031220" value="10uH" x="25.8064" y="16.0528">
 <attribute name="MFG_PART#" value="744031100" x="25.8064" y="16.0528" size="1.778" layer="27" display="off"/>
